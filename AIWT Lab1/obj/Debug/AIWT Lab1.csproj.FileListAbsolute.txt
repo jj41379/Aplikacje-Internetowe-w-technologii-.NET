@@ -1,0 +1,7 @@
+C:\Users\Jan\Desktop\AIWT Lab1\AIWT Lab1\AIWT Lab1\obj\Debug\AIWT Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\AIWT Lab1\AIWT Lab1\AIWT Lab1\bin\Debug\AIWT Lab1.exe.config
+C:\Users\Jan\Desktop\AIWT Lab1\AIWT Lab1\AIWT Lab1\bin\Debug\AIWT Lab1.exe
+C:\Users\Jan\Desktop\AIWT Lab1\AIWT Lab1\AIWT Lab1\bin\Debug\AIWT Lab1.pdb
+C:\Users\Jan\Desktop\AIWT Lab1\AIWT Lab1\AIWT Lab1\obj\Debug\AIWT Lab1.exe
+C:\Users\Jan\Desktop\AIWT Lab1\AIWT Lab1\AIWT Lab1\obj\Debug\AIWT Lab1.pdb
+C:\Users\Jan\Desktop\AIWT Lab1\AIWT Lab1\AIWT Lab1\obj\Debug\AIWT Lab1.csprojAssemblyReference.cache
